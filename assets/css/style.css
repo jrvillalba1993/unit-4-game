@@ -40,7 +40,7 @@ body {
   }
   
   #random-area {
-    width: 800px;
+    width: 75px;
     height: 100px;
     padding: 4px;
     font-size: 3vw;
@@ -49,7 +49,7 @@ body {
   }
   
   #score-area {
-    width: 800px;
+    width: 75px;
     height: 100px;
     padding: 4px;
     color: rgb(255, 255, 255);
