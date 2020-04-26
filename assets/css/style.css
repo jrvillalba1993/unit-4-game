@@ -9,5 +9,10 @@ body {
     color: black;
     margin: 3%;
   }
-
-  
+  .crystal-img {
+    width: 80px;
+    height: 100px;
+  }
+  .crystals-button {
+    display: inline;
+  }
