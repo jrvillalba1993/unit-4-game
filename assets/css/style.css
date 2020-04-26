@@ -2,3 +2,10 @@ body {
     background-image: url("../images/background.jpg");
     
   }
+
+  header {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin: 3%;
+  }
